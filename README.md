@@ -1,1 +1,3 @@
-# Book Search Engine Starter Code
+# MERN Stack -- Book Search Engine
+
+## Description
