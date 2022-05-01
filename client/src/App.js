@@ -1,3 +1,5 @@
+// TODO: Create Apollo Provider to make every request work for the Apollo server
+
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import SearchBooks from './pages/SearchBooks';
