@@ -3,6 +3,7 @@
 ## Description
   This implements the MERN stack in a book search UI 
 
+Deployed here: https://booksrch.herokuapp.com/ 
 
   ## Table of Contents
   * [Installation Guide](#installation-guidelines)
